@@ -13,9 +13,9 @@
 
 - 💬 Ask me about *Django*
 
-- 📫 How to reach me *yashlrajapati2471@gmail.com*
+- 📫 How to reach me *nikhilsarpara4225@gmail.com*
   
-- ⚡ Fun fact *Call me as YP*
+- ⚡ Fun fact *Call me as nik*
 
 </td>
 <td width="50%" align="center">
